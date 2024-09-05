@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3, h4 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+thead {
+    background-color: #0074cc;
+    color: white;
+}
+
+thead th {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #dddddd;
+}
+
+tbody td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #dddddd;
+}
+
+.subject-details thead {
+    background-color: #004080;
+}
+
+.subject-details td, .subject-details th {
+    text-align: left;
+}
+
